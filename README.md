@@ -1,5 +1,5 @@
 # QA-MU-MIMO
-MU-MIMO optimization using Quantum Annealing
+MU-MIMO optimization using Quantum Annealing//
 User demand for increasing quantities of wireless capacity continues to exceed availability,
  hence great development has been made in new MIMO wireless physical layer approaches to
  accommodate this demand. Higher-performance systems are now mostly impracticable due
